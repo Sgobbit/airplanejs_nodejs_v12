@@ -13,7 +13,7 @@
     "mode-s-demodulator": "^1.0.0",
     "opn": "^5.1.0",
     "patterns": "^1.0.3",
-    "rtl-sdr": "^0.1.2"
+    "rtl-sdr": "git+https://git@github.com/Sgobbit/rtl-sdr_nodejs_v12.git"
   },
   "devDependencies": {
     "standard": "^10.0.3"
